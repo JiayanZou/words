@@ -1,0 +1,7 @@
+Your README should be a plain text file (openable in nano, for example) containing the name and
+net ID of both partners.
+Your README may include any design notes or special cases your code can or cannot handle
+correctly.
+Your README should also describe your testing strategy. What sorts of cases did you create?
+Why those cases and not others? What specific aspects of your program do your tests check?
+Use of Markdown or similar text formatting conventions is permitted.
